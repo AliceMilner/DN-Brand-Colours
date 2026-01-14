@@ -1,2 +1,46 @@
-# DN-Brand-Colours
-Brand Palette for DN with all colour values 
+# Dark Pink 
+- HEX  #D404BD 
+- CMYK  C0 M98 Y11 K17 
+- RBG  R212 G4 B189 
+
+
+# Mid Pink 
+- HEX  #FF58F0 
+- CMYK  C0 M65 Y5 K0 
+- RBG  R255 G88 B241 
+
+
+# Dark Purple
+- HEX  #471051  
+- CMYK  C12 M80 Y0 K68  
+- RGB  R71 G16 B81 
+
+
+# Mid Purple
+- HEX  #702382  
+- CMYK  C13 M73 Y0 K49  
+- RGB  R113 G35 B130  
+
+
+# Black
+- HEX  #111111  
+- CMYK  C0 M0 Y0 K93  
+- RGB  R17 G17 B17  
+
+
+# Light Pink
+- HEX  #FFADF8  
+- CMYK  C0 M32 Y3 K0  
+- RGB  R255 G173 B247  
+
+
+# White
+- HEX  #FFFFFF  
+- CMYK  C0 M0 Y0 K0  
+- RGB  R255 G255 B255  
+
+
+# Blue
+- HEX  #4CCDED  
+- CMYK  C68 M14 Y0 K7  
+- RGB  R76 G205 B237  
